@@ -1,0 +1,1 @@
+game:GetService("Workspace")["O  Ban"].Admins.BanGUI.Parent = game.Players.LocalPlayer.PlayerGui
